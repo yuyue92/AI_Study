@@ -104,3 +104,19 @@
 | Video Understanding                     | 视频理解         |
 | Recommendation System                   | 推荐系统         |
 | Code Generation                         | 代码生成         |
+
+6、评价指标：
+| 英文                            | 中文               |
+| ----------------------------- | ---------------- |
+| Accuracy                      | 准确率              |
+| Precision                     | 精确率              |
+| Recall                        | 召回率              |
+| F1 Score                      | F1 分数            |
+| Area Under Curve (AUC)        | 曲线下面积            |
+| Mean Absolute Error (MAE)     | 平均绝对误差           |
+| BLEU Score                    | BLEU 分数（机器翻译评估）  |
+| ROUGE Score                   | ROUGE 分数（文本摘要评估） |
+| METEOR                        | METEOR 指标        |
+| Perplexity (PPL)              | 困惑度              |
+| Mean Average Precision (mAP)  | 平均平均精度           |
+| Intersection over Union (IoU) | 交并比              |
