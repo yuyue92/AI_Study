@@ -42,3 +42,27 @@
 | Autoencoder (AE)                     | 自编码器            |
 | Variational Autoencoder (VAE)        | 变分自编码器          |
 | Large Language Model (LLM)           | 大语言模型           |
+
+3、训练与优化：
+| 英文                                                | 中文          |
+| ------------------------------------------------- | ----------- |
+| Pretraining                                       | 预训练         |
+| Fine-tuning                                       | 微调          |
+| Instruction Tuning                                | 指令微调        |
+| Reinforcement Learning with Human Feedback (RLHF) | 基于人类反馈的强化学习 |
+| Supervised Fine-Tuning (SFT)                      | 监督微调        |
+| Prompt Engineering                                | 提示词工程       |
+| Gradient Descent                                  | 梯度下降        |
+| Stochastic Gradient Descent (SGD)                 | 随机梯度下降      |
+| Adam Optimizer                                    | Adam 优化器    |
+| Learning Rate                                     | 学习率         |
+| Loss Function                                     | 损失函数        |
+| Cross-Entropy Loss                                | 交叉熵损失       |
+| Mean Squared Error (MSE)                          | 均方误差        |
+| Overfitting                                       | 过拟合         |
+| Underfitting                                      | 欠拟合         |
+| Regularization                                    | 正则化         |
+| Dropout                                           | 随机失活        |
+| Batch Normalization (BN)                          | 批量归一化       |
+| Early Stopping                                    | 提前停止        |
+| Data Augmentation                                 | 数据增强        |
