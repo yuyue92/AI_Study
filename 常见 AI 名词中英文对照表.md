@@ -22,3 +22,23 @@
 | Zero-Shot Learning                | 零样本学习  |
 | Multimodal Learning               | 多模态学习  |
 
+2、模型架构：
+| 英文                                   | 中文              |
+| ------------------------------------ | --------------- |
+| Transformer                          | Transformer 变换器 |
+| Attention Mechanism                  | 注意力机制           |
+| Self-Attention                       | 自注意力机制          |
+| Encoder                              | 编码器             |
+| Decoder                              | 解码器             |
+| Encoder-Decoder Architecture         | 编码器-解码器架构       |
+| Convolutional Neural Network (CNN)   | 卷积神经网络          |
+| Recurrent Neural Network (RNN)       | 循环神经网络          |
+| Long Short-Term Memory (LSTM)        | 长短期记忆网络         |
+| Gated Recurrent Unit (GRU)           | 门控循环单元          |
+| Graph Neural Network (GNN)           | 图神经网络           |
+| Vision Transformer (ViT)             | 视觉 Transformer  |
+| Generative Adversarial Network (GAN) | 生成对抗网络          |
+| Diffusion Model                      | 扩散模型            |
+| Autoencoder (AE)                     | 自编码器            |
+| Variational Autoencoder (VAE)        | 变分自编码器          |
+| Large Language Model (LLM)           | 大语言模型           |
