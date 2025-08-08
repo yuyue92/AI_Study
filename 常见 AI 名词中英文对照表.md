@@ -66,3 +66,20 @@
 | Batch Normalization (BN)                          | 批量归一化       |
 | Early Stopping                                    | 提前停止        |
 | Data Augmentation                                 | 数据增强        |
+
+4、工具与框架：
+| 英文                        | 中文                          |
+| ------------------------- | --------------------------- |
+| TensorFlow                | TensorFlow 框架               |
+| PyTorch                   | PyTorch 框架                  |
+| Keras                     | Keras 框架                    |
+| Hugging Face Transformers | Hugging Face Transformers 库 |
+| OpenAI API                | OpenAI 接口                   |
+| LangChain                 | LangChain 框架                |
+| Scikit-learn              | Scikit-learn 库              |
+| Pandas                    | Pandas 数据分析库                |
+| NumPy                     | NumPy 数值计算库                 |
+| JAX                       | JAX 库                       |
+| ONNX                      | ONNX 开放神经网络交换格式             |
+| CUDA                      | CUDA GPU 加速平台               |
+| cuDNN                     | cuDNN 深度神经网络加速库             |
