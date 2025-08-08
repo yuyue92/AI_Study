@@ -83,3 +83,24 @@
 | ONNX                      | ONNX 开放神经网络交换格式             |
 | CUDA                      | CUDA GPU 加速平台               |
 | cuDNN                     | cuDNN 深度神经网络加速库             |
+
+5、应用场景：
+| 英文                                      | 中文           |
+| --------------------------------------- | ------------ |
+| Text Classification                     | 文本分类         |
+| Sentiment Analysis                      | 情感分析         |
+| Named Entity Recognition (NER)          | 命名实体识别       |
+| Machine Translation                     | 机器翻译         |
+| Text Summarization                      | 文本摘要         |
+| Question Answering (QA)                 | 问答系统         |
+| Chatbot                                 | 聊天机器人        |
+| Speech Synthesis / Text-to-Speech (TTS) | 语音合成 / 文本转语音 |
+| Automatic Speech Recognition (ASR)      | 自动语音识别       |
+| Image Classification                    | 图像分类         |
+| Object Detection                        | 目标检测         |
+| Image Segmentation                      | 图像分割         |
+| Optical Character Recognition (OCR)     | 光学字符识别       |
+| Image Generation                        | 图像生成         |
+| Video Understanding                     | 视频理解         |
+| Recommendation System                   | 推荐系统         |
+| Code Generation                         | 代码生成         |
